@@ -1,0 +1,6 @@
+@BumberBros.WebApi_HostAddress = http://localhost:5054
+
+GET {{BumberBros.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
